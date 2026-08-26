@@ -1,2 +1,2 @@
-def git download (repo)
+def gitdownload(repo)
 { git "branch: main', url: 'https://github.com/banu5645/${repo}.git" }
